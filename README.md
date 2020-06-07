@@ -16,3 +16,11 @@ or
 ``` bash
 npx @pepperi-addons/create
 ```
+#### You might need to also Install
+``` bash
+npm i @types/node
+```
+and
+``` bash
+npm i -g typescript
+```
